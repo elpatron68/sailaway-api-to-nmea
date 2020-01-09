@@ -1,5 +1,7 @@
 # Sailaway to NMEA
 
+## This project is archived, all changes have been added to the [original project](https://github.com/expilu/sailaway-api-to-nmea).
+
 *This is a fork of https://github.com/expilu/sailaway-api-to-nmea. Command line arguments for non-interactive start were added*
 
 This is a Windows application that retrieves your boat data from Sailaway server and sends it through TCP using NMEA sentences.
